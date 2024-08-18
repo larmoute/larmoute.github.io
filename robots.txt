@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://larmoute.github.io/sitemap.html.gz
+Sitemap: https://larmoute.github.io/app/sitemap.html.gz
+Sitemap: https://larmoute.github.io/assets/sitemap.html.gz
+Sitemap: https://larmoute.github.io/css/sitemap.html.gz
+Sitemap: https://larmoute.github.io/includes/sitemap.html.gz
+Sitemap: https://larmoute.github.io/item/sitemap.html.gz
+Sitemap: https://larmoute.github.io/src/sitemap.html.gz
